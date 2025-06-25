@@ -1,0 +1,8 @@
+asyncio
+numpy
+pandas
+joblib
+scikit-learn
+websockets
+colorama
+rich
